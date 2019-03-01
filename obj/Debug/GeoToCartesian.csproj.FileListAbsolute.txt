@@ -1,0 +1,6 @@
+c:\users\vorontsov\documents\visual studio 2013\Projects\GeoToCartesian\GeoToCartesian\bin\Debug\GeoToCartesian.exe.config
+c:\users\vorontsov\documents\visual studio 2013\Projects\GeoToCartesian\GeoToCartesian\obj\Debug\GeoToCartesian.csprojResolveAssemblyReference.cache
+c:\users\vorontsov\documents\visual studio 2013\Projects\GeoToCartesian\GeoToCartesian\bin\Debug\GeoToCartesian.exe
+c:\users\vorontsov\documents\visual studio 2013\Projects\GeoToCartesian\GeoToCartesian\bin\Debug\GeoToCartesian.pdb
+c:\users\vorontsov\documents\visual studio 2013\Projects\GeoToCartesian\GeoToCartesian\obj\Debug\GeoToCartesian.exe
+c:\users\vorontsov\documents\visual studio 2013\Projects\GeoToCartesian\GeoToCartesian\obj\Debug\GeoToCartesian.pdb
